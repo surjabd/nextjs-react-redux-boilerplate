@@ -1,0 +1,27 @@
+{
+  "name": "realstate-react",
+  "version": "1.0.0",
+  "description": "Boilerplate create by Hasan Ferdouse Sharif (hasan.sharif.87@gmail.com)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "next": "^9.4.4",
+    "next-redux-wrapper": "^4.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "reactstrap": "^8.5.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  }
+}
